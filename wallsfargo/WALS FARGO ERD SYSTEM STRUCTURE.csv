@@ -1,0 +1,7 @@
+﻿"ERD"
+"Relation ships"
+"PREDATA PREFACE"
+"client to portfolio one to one"
+"advisor to client many to one"
+"UML"
+"portfolio to securities one to many"
